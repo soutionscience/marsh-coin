@@ -1,0 +1,22 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "blockchain coin",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soutionscience/marsh-coin.git"
+  },
+  "author": "marsh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soutionscience/marsh-coin/issues"
+  },
+  "homepage": "https://github.com/soutionscience/marsh-coin#readme",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
+}
